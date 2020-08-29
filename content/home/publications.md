@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "A Model Output Deep Learning Method for Grid Temperature Forecasts in Tianjin Area"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -25,10 +25,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "A Model Output Deep Learning Method for Grid Temperature Forecasts in Tianjin Area"
     category = ""
     publication_type = ""
-    author = ""
+    author = "Keran Chen"
     exclude_featured = false
   
 [design]
