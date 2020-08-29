@@ -19,6 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Post-processing of medium-term numerical weather prediction based on deep learning methods"
+  company = "University X"
+  location = "California"
   date_start = "2019-10"
   date_end = "present"
   description = """
@@ -29,6 +31,14 @@ date_format = "Jan 2006"
   * Connect a constructive learning method to improve the accuracy of visibility and total cloud cover.
   """
 
+[[experience]]
+  title = "Establishment of evaluation rules for severe convective weather warning"
+  company = "University X"
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+  
 [[experience]]
   title = "Professor"
   company = "University X"
