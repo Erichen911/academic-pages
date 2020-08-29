@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Keran Chen
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master of Pattern Recognition
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Tianjin University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Abnormal Detection, Deep Learning Application and Software Development.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Abnormal Detection
+- Deep Learning Application
+- Software Development
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Pattern recognition and intelligent system
+    institution: Tianjin University
+    year: 2018-2020
+  - course: BSc in New Energy Science and Engineering
+    institution: Hebei University of Technology
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
