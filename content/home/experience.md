@@ -18,18 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Post-processing of medium-term numerical weather prediction based on deep learning methods"
+  date_start = "2019-10"
+  date_end = "present"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  NWP is a three-dimensional weather forecast tensor with temporal and spatial information in European space. My research is to use a 3D fully convolutional network to improve forecast accuracy.  
+  * Improve the Focal loss method to solve the sample imbalance of precipitation data.
+  * Connect a discriminator network after fully convolutional network to improve wind direction similarity.
+  * Construct a U-net structure network to improve the accuracy of the forecast.
+  * Connect a constructive learning method to improve the accuracy of visibility and total cloud cover.
   """
 
 [[experience]]
