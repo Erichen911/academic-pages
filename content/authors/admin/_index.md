@@ -1,7 +1,7 @@
 ---
 title: Keran Chen
 role: Master of Pattern Recognition
-avatar_filename: 头像.jpg
+avatar_filename: ""
 organizations:
   - name: Tianjin University
     url: ""
