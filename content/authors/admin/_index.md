@@ -1,4 +1,7 @@
 ---
+title: Keran Chen
+role: Master of Pattern Recognition
+avatar_filename: 头像.jpg
 organizations:
   - name: Tianjin University
     url: ""
@@ -7,8 +10,6 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Keran Chen
-role: Master of Pattern Recognition
 bio: My research interests include Abnormal Detection, Deep Learning Application
   and Software Development.
 interests:
