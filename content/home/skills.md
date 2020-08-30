@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "code"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Programming"
   description = "C,C++,Java,Kotlin,python,JavaScript, SQL, HTML, CSS"
   
