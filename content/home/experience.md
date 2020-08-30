@@ -19,11 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Tianjin University"
-  company = "M.S. in Computer Science and Technology"
+  company = "M.S. in Pattern Recognition"
   company_url = "https://en.wikipedia.org/wiki/Tianjin_University"
   location = "Tianjin,China"
   date_start = "2018-09-01"
   date_end = "2021-01-31"
+  description = """
+  * Lab: Pattern Recognition Laboratory of Tianjin University
+  * Researcher of CMA Public Meteorological Service Center Joint Laboratory of Intelligent Identification & Nowcasting Service for Convective System
+  * 2019, Second prize Scholarship in Tianjin University;
+  * 2018, First prize Scholarship in Tianjin University;
+  """
+
+[[experience]]
+  title = "Hebei University of Technology"
+  company = "B.S. in New Energy Science and Engineering"
+  company_url = "https://en.wikipedia.org/wiki/Hebei_University_of_Technology"
+  location = "Tianjin,China"
+  date_start = "2016-09-01"
+  date_end = "2018-06-31"
   description = """
   * 2017, Second prize in Hebei division of "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition;
   * 2017, First prize in Tianjin division of National Competition of Transport Science and Technology for Students (NACTranS);
@@ -32,13 +46,4 @@ date_format = "Jan 2006"
   * 2016, Third prize Scholarship in Hebei University of Technology;
   * 2015, Third prize Scholarship in Hebei University of Technology
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 +++
