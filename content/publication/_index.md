@@ -1,4 +1,4 @@
-+++
+---
 title: What's up
 
 # View.
@@ -12,4 +12,4 @@ view: 4
 header:
   caption: "hello"
   image: "a.jpg"
-+++
+---
