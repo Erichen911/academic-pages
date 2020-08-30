@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Tianjin University"
   company = "M.S. in Computer Science and Technology"
-  company_url = ""
+  company_url = "https://en.wikipedia.org/wiki/Tianjin_University"
   location = "Tianjin,China"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2021-01-31"
   description = """
   * 2017, Second prize in Hebei division of "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition;
   * 2017, First prize in Tianjin division of National Competition of Transport Science and Technology for Students (NACTranS);
