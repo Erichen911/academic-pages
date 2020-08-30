@@ -3,8 +3,8 @@ title: A Model Output Deep Learning Method for Grid Temperature Forecasts in
   Tianjin Area
 date: 2020-08-30T14:32:51.184Z
 summary: s
-draft: true
-featured: true
+draft: false
+featured: false
 authors:
   - Eric
 tags:
