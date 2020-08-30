@@ -5,8 +5,6 @@ avatar_filename: ""
 organizations:
   - name: Tianjin University
     url: ""
-  - name: " CMA Public Meteorological Service Center Joint Laboratory of Intelligent
-      Identification & Nowcasting Service for Convective System"
 superuser: true
 authors:
   - admin
