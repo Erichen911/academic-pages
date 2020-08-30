@@ -30,5 +30,20 @@ date_format = "Jan 2006"
   * 2019, Second prize Scholarship in Tianjin University;
   * 2018, First prize Scholarship in Tianjin University;
   """
-
+  
+[[experience]]
+  title = "Hebei University of Technology"
+  company = "B.S. in New Energy Science and Engineering"
+  company_url = "https://en.wikipedia.org/wiki/Hebei_University_of_Technology"
+  location = "Tianjin,China"
+  date_start = "2016-09-01"
+  date_end = ""
+  description = """
+  * 2017, Second prize in Hebei division of "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition;
+  * 2017, First prize in Tianjin division of National Competition of Transport Science and Technology for Students (NACTranS);
+  * 2017, Second prize in Hebei division of "SIEMENS Cup" China intelligent manufacturing challenge (CIMC);
+  * 2016, Second prize in Hebei division of China Undergraduate Mathematical Contest in Modeling (CUMCM);
+  * 2016, Third prize Scholarship in Hebei University of Technology;
+  * 2015, Third prize Scholarship in Hebei University of Technology
+  """
 +++
