@@ -29,8 +29,8 @@ subtitle = ""
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
-  name = "Data science and Machine learning Tools"
-  description = "sklearn, pandas, numpy, matplotlib, plotly"
+  name = "Machine learning Tools"
+  description = "sklearn, pandas, numpy, matplotlib, plotly, xgboost"
 
 [[feature]]
   icon = "desktop"
