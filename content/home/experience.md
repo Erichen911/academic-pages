@@ -18,18 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Tianjin University"
+  company = "M.S. in Patter Recognition"
+  company_url = "https://en.wikipedia.org/wiki/Tianjin_University"
+  location = "Tianjin,China"
+  date_start = "2018-09-01"
+  date_end = "present"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * 2017, Second prize in Hebei division of "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition;
+  * 2017, First prize in Tianjin division of National Competition of Transport Science and Technology for Students (NACTranS);
+  * 2017, Second prize in Hebei division of "SIEMENS Cup" China intelligent manufacturing challenge (CIMC);
+  * 2016, Second prize in Hebei division of China Undergraduate Mathematical Contest in Modeling (CUMCM);
+  * 2016, Third prize Scholarship in Hebei University of Technology;
+  * 2015, Third prize Scholarship in Hebei University of Technology
   """
 
 [[experience]]
