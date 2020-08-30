@@ -25,11 +25,11 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "A Model Output Deep Learning Method for Grid Temperature Forecasts in Tianjin Area"
+    tag = ""
     category = ""
     publication_type = ""
-    author = "Keran Chen"
-    exclude_featured = false
+    author = ""
+    exclude_featured = true
   
 [design]
   # Toggle between the various page layout types.
