@@ -1,5 +1,5 @@
----
-title: Publications
++++
+title: What's up
 
 # View.
 #   1 = List
@@ -12,4 +12,4 @@ view: 4
 header:
   caption: "hello"
   image: "a.jpg"
----
++++
