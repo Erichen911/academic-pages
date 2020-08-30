@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = "https://en.wikipedia.org/wiki/Hebei_University_of_Technology"
   location = "Tianjin,China"
   date_start = "2016-09-01"
-  date_end = "2018-06-31"
+  date_end = "2016-09-01"
   description = """
   * 2017, Second prize in Hebei division of "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition;
   * 2017, First prize in Tianjin division of National Competition of Transport Science and Technology for Students (NACTranS);
