@@ -1,8 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Post-processing of medium-term numerical weather prediction based on deep learning methods"
-summary: " NWP is a three-dimensional weather forecast tensor with temporal and spatial information in European space. My research is to use a 3D fully convolutional network to improve forecast accuracy."
+title: "Recognition of resistance value and chip categories"
+summary: "1、Position the color ring of the resistor and calculate the resistance value according to the color.
+2、Use open source OCR to identify chip categories.
+3、Development of recognition mobile apps. (Java)
+"
 authors: [Keran Chen]
 tags: []
 categories: []
