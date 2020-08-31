@@ -3,8 +3,8 @@
 
 title: "Heavy precipitation prediction in North China"
 summary: """
-* Use common anomaly detection algorithms (OC-SVM, SVDD) in machine learning to predict heavy precipitation.
-* Use deep learning-based anomaly detection (Deep SVDD) to predict heavy precipitation.
+1、Use common anomaly detection algorithms (OC-SVM, SVDD) in machine learning to predict heavy precipitation.
+2、Use deep learning-based anomaly detection (Deep SVDD) to predict heavy precipitation.
 """
 authors: [Keran Chen]
 tags: []
