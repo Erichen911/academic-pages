@@ -1,23 +1,41 @@
 ---
-title: "Post-processing of medium-term numerical weather prediction based on
-  deep learning methods "
-date: 2020-08-30T14:32:51.184Z
-summary: 
-draft: false
-featured: ture
-authors:
-  - "Eric"
-tags:
-  - ""
-categories:
-  - ""
-external_link: bug
- {{< figure src="feature.jpg" title="A caption" >}}
-image:
-  filename: feature.jpg
-  focal_point: TOP
-  preview_only: false
-  caption: ""
-  alt_text: ""
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+title: "Statistical Physics For Optimization and Learning"
+summary: "A set of Lectures given at Duke in 2018 by Lenka Zdeborova and Florent Krzakala"
+authors: [Florent Krzakala and Lenka Zdeborova]
+tags: []
+categories: []
+date: 2019-07-01T22:53:59+02:00
+
+# Optional external URL for project (replaces project detail page).
+external_link: "https://sphinxteam.github.io/DukeLecture2018/"
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
 ---
