@@ -1,8 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Post-processing of medium-term numerical weather prediction based on deep learning methods"
-summary: " NWP is a three-dimensional weather forecast tensor with temporal and spatial information in European space. My research is to use a 3D fully convolutional network to improve forecast accuracy."
+title: "Military object detection algorithm design and platform development"
+summary: "
+1、Build an object detection operation software based on PyQt5. (Python); 
+2、Crawling remote sensing images from Google Earth.; 
+3、Train YoloV3 and FasterRCNN to detect remote sensing targets."
 authors: [Keran Chen]
 tags: []
 categories: []
