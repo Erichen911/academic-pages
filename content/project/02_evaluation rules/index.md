@@ -4,7 +4,7 @@
 title: "Establishment of evaluation rules for severe convective weather warning"
 summary: "Participate in the formulation of evaluation rules and algorithm implementation of China’s severe convective weather warning."
 authors: [Keran Chen]
-tags: []
+tags: [algorithm]
 categories: []
 date: 2019-07-01T22:53:59+02:00
 

@@ -7,7 +7,7 @@ summary: "1、Position the color ring of the resistor and calculate the resistan
 3、Development of recognition mobile apps. (Java)
 "
 authors: [Keran Chen]
-tags: []
+tags: [app]
 categories: []
 date: 2019-07-01T22:53:59+02:00
 

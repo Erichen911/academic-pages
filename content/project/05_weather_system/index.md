@@ -7,7 +7,7 @@ summary: "1、Use chain code to search for cyclones
 3、Build the recognition software of weather system based on Qt. (C++)
 "
 authors: [Keran Chen]
-tags: []
+tags: [software]
 categories: []
 date: 2019-07-01T22:53:59+02:00
 
