@@ -9,6 +9,9 @@ authors = [""]
 tags = ["", "", "", ""]
 summary = "Bengali is the 5th most spoken language in the world with hundreds of million of speakers. It’s the official language of Bangladesh and the second most spoken language in India. Considering its reach, there’s significant business and educational interest in developing AI that can optically recognize images of the language handwritten. This challenge hopes to improve on approaches to Bengali recognition." 
 
+# Optional external URL for project (replaces project detail page).
+external_link: "https://www.kaggle.com/c/bengaliai-cv19"
+
 [header]
 image = ""
 caption = ""

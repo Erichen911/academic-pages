@@ -5,9 +5,12 @@ date = 2020-07-02T00:30:00
 lastmod = 2020-07-02T00:30:00
 draft = false
 
-authors = ["SM Mazharul Islam"]
-tags = ["Summary", "Presentation", "AGI", "Model"]
+authors = [""]
+tags = [""]
 summary = "It’s difficult to fathom just how vast and diverse our natural world is. There are over 5,000 species of mammals, 10,000 species of birds, 30,000 species of fish – and astonishingly, over 400,000 different types of flowers. In this competition, you’re challenged to build a machine learning model that identifies the type of flowers in a dataset of images (for simplicity, we’re sticking to just over 100 types)." 
+
+# Optional external URL for project (replaces project detail page).
+external_link: "https://www.kaggle.com/c/flower-classification-with-tpus/"
 
 [header]
 image = ""
