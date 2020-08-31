@@ -30,7 +30,7 @@ subtitle = ""
   # tag = ""
   # category = ""
   # publication_type = ""
-  # author = "Eric"
+  # author = ""
   # exclude_featured = true
   
 [design]
@@ -69,6 +69,3 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
