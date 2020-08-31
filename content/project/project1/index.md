@@ -6,7 +6,7 @@ summary:
 draft: false
 featured: ture
 authors:
-  - ""
+  - "Eric"
 tags:
   - ""
 categories:
