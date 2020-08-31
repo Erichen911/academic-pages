@@ -2,7 +2,7 @@
 # Selected Publications widget.
 # This widget displays publications from `content/publication/` which have
 # `selected = true` in their `+++` front matter.
-widget = "publications_selected"
+widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
