@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Post-processing of medium-term numerical weather prediction based on deep learning methods"
-summary: " NWP is a three-dimensional weather forecast tensor with temporal and spatial information in European space. My research is to use a 3D fully convolutional network to improve forecast accuracy."
+title: "Establishment of evaluation rules for severe convective weather warning"
+summary: "Participate in the formulation of evaluation rules and algorithm implementation of China’s severe convective weather warning."
 authors: [Keran Chen]
 tags: []
 categories: []
