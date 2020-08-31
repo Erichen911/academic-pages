@@ -7,7 +7,7 @@ summary: "
 2、Crawling remote sensing images from Google Earth.; 
 3、Train YoloV3 and FasterRCNN to detect remote sensing targets."
 authors: [Keran Chen]
-tags: []
+tags: [software]
 categories: []
 date: 2019-07-01T22:53:59+02:00
 
