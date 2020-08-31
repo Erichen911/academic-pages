@@ -12,10 +12,12 @@ tags:
 categories:
   - ""
 external_link: bug
+ {{< figure src="feature.jpg" title="A caption" >}}
 image:
   filename: feature.jpg
   focal_point: TOP
   preview_only: false
   caption: ""
   alt_text: ""
+
 ---

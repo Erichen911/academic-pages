@@ -27,8 +27,8 @@ subtitle = ""
     filter_default = 0
 
   #[content.filters]
-  # tag = "manuscript"
-  # category = "deep learning"
+  # tag = ""
+  # category = ""
   # publication_type = ""
   # author = "Eric"
   # exclude_featured = true
