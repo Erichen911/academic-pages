@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 # Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags.
-tags = ["Load Modeling"]
+tags = ["Numerical Weather Prediction"]
 
 # Links (optional).
 url_pdf = "https://www.mdpi.com/2076-3417/10/17/5808/htm"
