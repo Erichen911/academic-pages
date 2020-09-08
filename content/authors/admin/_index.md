@@ -29,7 +29,7 @@ social:
     link: https://github.com/Erichen911
 education:
   courses:
-    - course: MEng in Pattern recognition and intelligent system
+    - course: MSc in Pattern recognition and intelligent system
       institution: Tianjin University
       year: 2018-2020
     - course: BSc in New Energy Science and Engineering
