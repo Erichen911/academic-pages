@@ -12,7 +12,7 @@ categories: []
 date: 2019-07-01T22:53:59+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://sphinxteam.github.io/DukeLecture2018/"
+external_link: "https://github.com/Erichen911/Military-Detect/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
